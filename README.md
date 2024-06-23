@@ -11,6 +11,16 @@ Welcome to MemoMates! Capture your daily moments and create lasting memories wit
 - **Real-time Database**: Save and retrieve your journal entries instantly with Cloud Firestore.
 - **Image Loading**: Seamlessly load images using the Glide library.
 
+## Tech Stack
+
+- Android Studio
+- XML
+- Java
+- Firebase Firestore
+- Firebase Storage
+- Firebase Authentication
+- Glide Library
+- Others
 ## Screenshots
 ### App icon :
 <p align="left">
@@ -26,7 +36,4 @@ Welcome to MemoMates! Capture your daily moments and create lasting memories wit
 </p>
 
 ## Demo Video
-
-> *Include a demo video of the app here*
-
-[Watch Demo Video](path/to/demo_video.mp4)
+[Watch Demo Video](https://youtu.be/JBnEFYq4hUI)
