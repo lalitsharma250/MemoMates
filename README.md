@@ -13,7 +13,7 @@ Welcome to MemoMates! Capture your daily moments and create lasting memories wit
 
 ## Screenshots
 ### App icon :
-<p align="center">
+<p align="left">
   <img src="https://github.com/lalitsharma250/MemoMates/assets/121296235/f92c3b63-fbe7-49a4-8a27-16e5467a3919" width="350" title="app startup">
 </p>
 
