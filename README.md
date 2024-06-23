@@ -15,7 +15,7 @@ Welcome to MemoMates! Capture your daily moments and create lasting memories wit
 
 > *Include screenshots of the app here*
 
-![Screenshot 1](https://drive.google.com/file/d/16xDwLY_My0iqdUOjFWAd5A3bQpU0QiFb/view?usp=drive_link)
+![journal](https://github.com/lalitsharma250/MemoMates/assets/121296235/f92c3b63-fbe7-49a4-8a27-16e5467a3919)
 ![Screenshot 2](path/to/screenshot2.png)
 ![Screenshot 3](path/to/screenshot3.png)
 
