@@ -1,0 +1,46 @@
+com.example.journalapp-ads-adservices-1.0.0-beta05-0 C:\Users\HP\.gradle\caches\transforms-4\0b3655d013177d4f001f96f8b8ee1684\transformed\ads-adservices-1.0.0-beta05\res
+com.example.journalapp-viewpager2-1.0.0-1 C:\Users\HP\.gradle\caches\transforms-4\1094c0dda1c04c6867470650b36b937f\transformed\viewpager2-1.0.0\res
+com.example.journalapp-lifecycle-livedata-2.6.2-2 C:\Users\HP\.gradle\caches\transforms-4\1543c8f0511dd4d83a5bf92ccbec6edf\transformed\lifecycle-livedata-2.6.2\res
+com.example.journalapp-lifecycle-process-2.6.2-3 C:\Users\HP\.gradle\caches\transforms-4\16688efc4135612a44b5e0c2b0941beb\transformed\lifecycle-process-2.6.2\res
+com.example.journalapp-credentials-1.2.0-rc01-4 C:\Users\HP\.gradle\caches\transforms-4\19ff908aa09961542b7f27dd00131505\transformed\credentials-1.2.0-rc01\res
+com.example.journalapp-constraintlayout-2.1.4-5 C:\Users\HP\.gradle\caches\transforms-4\1c5a675b35227ea5d04b2052c054cfb2\transformed\constraintlayout-2.1.4\res
+com.example.journalapp-browser-1.4.0-6 C:\Users\HP\.gradle\caches\transforms-4\2e174f50decb487e4a504f14c941ea3b\transformed\browser-1.4.0\res
+com.example.journalapp-profileinstaller-1.3.1-7 C:\Users\HP\.gradle\caches\transforms-4\43685cbb642d15d1679178780279299b\transformed\profileinstaller-1.3.1\res
+com.example.journalapp-annotation-experimental-1.4.0-8 C:\Users\HP\.gradle\caches\transforms-4\49da854d20685b3cf531ca32e371ff4d\transformed\annotation-experimental-1.4.0\res
+com.example.journalapp-lifecycle-viewmodel-savedstate-2.6.2-9 C:\Users\HP\.gradle\caches\transforms-4\56375f7aa4ea5a8f7827db61b1b80764\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.journalapp-transition-1.5.0-10 C:\Users\HP\.gradle\caches\transforms-4\5ac497104a0972e6f1d9b5dbddd0e6c2\transformed\transition-1.5.0\res
+com.example.journalapp-startup-runtime-1.1.1-11 C:\Users\HP\.gradle\caches\transforms-4\5bab82030fd71d582c2d93b52accaca7\transformed\startup-runtime-1.1.1\res
+com.example.journalapp-lifecycle-runtime-2.6.2-12 C:\Users\HP\.gradle\caches\transforms-4\6483e462eefddcf46d5aa364da2c32b9\transformed\lifecycle-runtime-2.6.2\res
+com.example.journalapp-emoji2-views-helper-1.2.0-13 C:\Users\HP\.gradle\caches\transforms-4\662ce8169f5edad2877054f4c03fdc85\transformed\emoji2-views-helper-1.2.0\res
+com.example.journalapp-fragment-1.3.6-14 C:\Users\HP\.gradle\caches\transforms-4\68947ed06ba36d6ec00b5537f420805c\transformed\fragment-1.3.6\res
+com.example.journalapp-ads-adservices-java-1.0.0-beta05-15 C:\Users\HP\.gradle\caches\transforms-4\75c4a10d6c6c8cbc69dcfa410e5a9346\transformed\ads-adservices-java-1.0.0-beta05\res
+com.example.journalapp-core-1.13.0-16 C:\Users\HP\.gradle\caches\transforms-4\77af61fdaa9fe478ad89dbc3f392aaec\transformed\core-1.13.0\res
+com.example.journalapp-activity-1.9.0-17 C:\Users\HP\.gradle\caches\transforms-4\789ab975f4a24a0f46de7fb76ce2df59\transformed\activity-1.9.0\res
+com.example.journalapp-cardview-1.0.0-18 C:\Users\HP\.gradle\caches\transforms-4\7d6dec5d48dc54b89ac826faf02e89fb\transformed\cardview-1.0.0\res
+com.example.journalapp-recyclerview-1.1.0-19 C:\Users\HP\.gradle\caches\transforms-4\89348ebfac7ebae02271562242fe37da\transformed\recyclerview-1.1.0\res
+com.example.journalapp-play-services-base-18.1.0-20 C:\Users\HP\.gradle\caches\transforms-4\8bec223b0705d49dce1b469b54a1d685\transformed\play-services-base-18.1.0\res
+com.example.journalapp-play-services-basement-18.3.0-21 C:\Users\HP\.gradle\caches\transforms-4\90e1d20415e847adfb81befdd7547365\transformed\play-services-basement-18.3.0\res
+com.example.journalapp-glide-4.16.0-22 C:\Users\HP\.gradle\caches\transforms-4\93c92a2ebf7a182ec7d97c20ea5fe8de\transformed\glide-4.16.0\res
+com.example.journalapp-core-runtime-2.2.0-23 C:\Users\HP\.gradle\caches\transforms-4\978f75fbdc2980ac0b02597eb0abd5f0\transformed\core-runtime-2.2.0\res
+com.example.journalapp-emoji2-1.2.0-24 C:\Users\HP\.gradle\caches\transforms-4\9a2f93efbbf085ed9d561a21cf965ad6\transformed\emoji2-1.2.0\res
+com.example.journalapp-play-services-auth-20.7.0-25 C:\Users\HP\.gradle\caches\transforms-4\a08b5312a35f2179c30a28c3dd612146\transformed\play-services-auth-20.7.0\res
+com.example.journalapp-lifecycle-viewmodel-2.6.2-26 C:\Users\HP\.gradle\caches\transforms-4\a4e46b495ad51e703adcee3f81668246\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.journalapp-lifecycle-livedata-core-2.6.2-27 C:\Users\HP\.gradle\caches\transforms-4\af4ff7b92ce70fe3df2c182d5f53d756\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.journalapp-core-ktx-1.13.0-28 C:\Users\HP\.gradle\caches\transforms-4\be0b5194fbf98897eacd4c06bbe47e29\transformed\core-ktx-1.13.0\res
+com.example.journalapp-play-services-measurement-api-22.0.0-29 C:\Users\HP\.gradle\caches\transforms-4\c00b0322a9db1131605326eb55ba34c6\transformed\play-services-measurement-api-22.0.0\res
+com.example.journalapp-savedstate-1.2.1-30 C:\Users\HP\.gradle\caches\transforms-4\c13c5359cda799e5bcb4f86dd2da804c\transformed\savedstate-1.2.1\res
+com.example.journalapp-firebase-common-21.0.0-31 C:\Users\HP\.gradle\caches\transforms-4\c5ceaddf75191a7554d6e40d80fa6369\transformed\firebase-common-21.0.0\res
+com.example.journalapp-credentials-play-services-auth-1.2.0-rc01-32 C:\Users\HP\.gradle\caches\transforms-4\d159659900b0a9bfe99d13d0c2d9bcbd\transformed\credentials-play-services-auth-1.2.0-rc01\res
+com.example.journalapp-material-1.12.0-33 C:\Users\HP\.gradle\caches\transforms-4\d3645e03f58b2b21a68622bf76c6b98e\transformed\material-1.12.0\res
+com.example.journalapp-drawerlayout-1.1.1-34 C:\Users\HP\.gradle\caches\transforms-4\e6a9e2ad7d1ad19927ce58b962a0718d\transformed\drawerlayout-1.1.1\res
+com.example.journalapp-appcompat-1.6.1-35 C:\Users\HP\.gradle\caches\transforms-4\e82b7f64eb96cf472c1fe2e6624a5e81\transformed\appcompat-1.6.1\res
+com.example.journalapp-appcompat-resources-1.6.1-36 C:\Users\HP\.gradle\caches\transforms-4\ee5ae96eecf342ce093d0df43086d155\transformed\appcompat-resources-1.6.1\res
+com.example.journalapp-coordinatorlayout-1.1.0-37 C:\Users\HP\.gradle\caches\transforms-4\f36d84ce92e4fa3eabe8beaf23fa2f24\transformed\coordinatorlayout-1.1.0\res
+com.example.journalapp-pngs-38 D:\Udemy Android\JournalApp\app\build\generated\res\pngs\debug
+com.example.journalapp-res-39 D:\Udemy Android\JournalApp\app\build\generated\res\processDebugGoogleServices
+com.example.journalapp-resValues-40 D:\Udemy Android\JournalApp\app\build\generated\res\resValues\debug
+com.example.journalapp-packageDebugResources-41 D:\Udemy Android\JournalApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.journalapp-packageDebugResources-42 D:\Udemy Android\JournalApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.journalapp-debug-43 D:\Udemy Android\JournalApp\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.journalapp-debug-44 D:\Udemy Android\JournalApp\app\src\debug\res
+com.example.journalapp-main-45 D:\Udemy Android\JournalApp\app\src\main\res

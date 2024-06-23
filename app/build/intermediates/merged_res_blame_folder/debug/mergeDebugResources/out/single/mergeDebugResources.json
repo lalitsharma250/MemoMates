@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-debug-43:\\drawable_gradient_main.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-main-45:\\drawable\\gradient_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-debug-43:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-main-45:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.journalapp-debug-43:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.journalapp-main-45:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-debug-43:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-main-45:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-debug-43:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-main-45:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "com.example.journalapp-debug-43:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.journalapp-main-45:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-debug-43:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-main-45:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-debug-43:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-main-45:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-debug-43:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-main-45:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.journalapp-debug-43:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.journalapp-main-45:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-debug-43:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-main-45:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.journalapp-debug-43:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.journalapp-main-45:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-debug-43:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-main-45:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-debug-43:\\layout_journal_row.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-main-45:\\layout\\journal_row.xml"
+    },
+    {
+        "merged": "com.example.journalapp-debug-43:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.journalapp-main-45:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-debug-43:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-main-45:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-debug-43:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-main-45:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.journalapp-debug-43:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.journalapp-main-45:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.journalapp-debug-43:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.journalapp-main-45:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.journalapp-debug-43:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.journalapp-main-45:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-debug-43:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-main-45:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.journalapp-debug-43:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.journalapp-main-45:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-debug-43:\\layout_activity_add_journal.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-main-45:\\layout\\activity_add_journal.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-debug-43:\\drawable_gradient_add_journal.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-main-45:\\drawable\\gradient_add_journal.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-debug-43:\\layout_activity_journal_list.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-main-45:\\layout\\activity_journal_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-debug-43:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-main-45:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-debug-43:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-main-45:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.journalapp-debug-43:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.journalapp-main-45:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-debug-43:\\menu_my_menu.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-main-45:\\menu\\my_menu.xml"
+    },
+    {
+        "merged": "com.example.journalapp-debug-43:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.journalapp-main-45:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-debug-43:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-main-45:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.journalapp-debug-43:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.journalapp-main-45:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-debug-43:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-main-45:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-debug-43:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-main-45:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.journalapp-debug-43:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.journalapp-main-45:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.journalapp-debug-43:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.journalapp-main-45:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-debug-43:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-main-45:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.journalapp-debug-43:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.journalapp-main-45:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-debug-43:\\drawable_gradient_journal_list.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-main-45:\\drawable\\gradient_journal_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-debug-43:\\drawable_input_outline.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-main-45:\\drawable\\input_outline.xml"
+    },
+    {
+        "merged": "com.example.journalapp-debug-43:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.journalapp-main-45:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.journalapp-debug-43:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.journalapp-main-45:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-debug-43:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\8.6\\com.example.journalapp-main-45:\\layout\\activity_main.xml"
+    }
+]
