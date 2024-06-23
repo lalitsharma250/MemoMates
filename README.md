@@ -12,12 +12,18 @@ Welcome to MemoMates! Capture your daily moments and create lasting memories wit
 - **Image Loading**: Seamlessly load images using the Glide library.
 
 ## Screenshots
+### App icon :
+<p align="center">
+  <img src="https://github.com/lalitsharma250/MemoMates/assets/121296235/f92c3b63-fbe7-49a4-8a27-16e5467a3919" width="350" title="app startup">
+</p>
 
-> *Include screenshots of the app here*
-
-![journal](https://github.com/lalitsharma250/MemoMates/assets/121296235/f92c3b63-fbe7-49a4-8a27-16e5467a3919)
-![Screenshot 2](path/to/screenshot2.png)
-![Screenshot 3](path/to/screenshot3.png)
+### App ScreenShots :
+<p align="left">
+  <img src="https://github.com/lalitsharma250/MemoMates/assets/121296235/b6312e9a-f209-4f46-86ed-719c82a4b220" width="250" height="450" title="sign UP Activity"/>
+  <img src="https://github.com/lalitsharma250/MemoMates/assets/121296235/15548bb6-1dd2-4995-adc5-2e675d8b6b6e" width="250" height="450" title="Login Activity"/>
+  <img src="https://github.com/lalitsharma250/MemoMates/assets/121296235/4062b1a6-a8ab-458f-9fd3-1e765deab672" width="250" height="450" title="Journal Activity"/>
+  <img src="https://github.com/lalitsharma250/MemoMates/assets/121296235/8b029e02-069f-411b-b2c6-8d982540efc6" width="250" height="450" title="Create Journal Activity"/>
+</p>
 
 ## Demo Video
 
