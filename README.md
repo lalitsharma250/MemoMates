@@ -2,7 +2,7 @@
 
 Welcome to MemoMates! Capture your daily moments and create lasting memories with our app. MemoMates is your personal journal for everyday experiences, allowing you to add custom-made journals with titles, thoughts, and images. With an eye-catching UI and robust features like Firebase authentication, storage, Cloud Firestore, and the Glide library for image loading, MemoMates ensures your memories are safe and easily accessible.
 
-## Features
+## ✨Features
 
 - **Custom Journals**: Create journals with titles, detailed thoughts, and images.
 - **Beautiful UI**: Enjoy an intuitive and eye-catching user interface.
@@ -11,8 +11,7 @@ Welcome to MemoMates! Capture your daily moments and create lasting memories wit
 - **Real-time Database**: Save and retrieve your journal entries instantly with Cloud Firestore.
 - **Image Loading**: Seamlessly load images using the Glide library.
 
-## Tech Stack
-
+## 📱Tech Stack
 - Android Studio
 - XML
 - Java
@@ -27,7 +26,7 @@ Welcome to MemoMates! Capture your daily moments and create lasting memories wit
   <img src="https://github.com/lalitsharma250/MemoMates/assets/121296235/944c41e9-d5cf-4ce6-8580-07e1cbb8709e" width="350" title="app startup">
 </p>
 
-### App ScreenShots :
+### 🤩App ScreenShots :
 <p align="left">
   <img src="https://github.com/lalitsharma250/MemoMates/assets/121296235/b6312e9a-f209-4f46-86ed-719c82a4b220" width="250" height="450" title="sign UP Activity"/>
   <img src="https://github.com/lalitsharma250/MemoMates/assets/121296235/15548bb6-1dd2-4995-adc5-2e675d8b6b6e" width="250" height="450" title="Login Activity"/>
