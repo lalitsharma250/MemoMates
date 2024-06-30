@@ -20,13 +20,13 @@ Welcome to MemoMates! Capture your daily moments and create lasting memories wit
 - Firebase Authentication
 - Glide Library
 - Others
-## Screenshots
+## 🤩Screenshots
 ### App icon :
 <p align="left">
   <img src="https://github.com/lalitsharma250/MemoMates/assets/121296235/944c41e9-d5cf-4ce6-8580-07e1cbb8709e" width="350" title="app startup">
 </p>
 
-### 🤩App ScreenShots :
+### App ScreenShots :
 <p align="left">
   <img src="https://github.com/lalitsharma250/MemoMates/assets/121296235/b6312e9a-f209-4f46-86ed-719c82a4b220" width="250" height="450" title="sign UP Activity"/>
   <img src="https://github.com/lalitsharma250/MemoMates/assets/121296235/15548bb6-1dd2-4995-adc5-2e675d8b6b6e" width="250" height="450" title="Login Activity"/>
